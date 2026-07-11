@@ -17,7 +17,7 @@ The architecture demonstrates common production networking patterns used in mode
 # 🏗️ Architecture
 
 <p align="center">
-<img src="architecture.png" width="1000">
+<img src="architecture.jpg" width="1000">
 </p>
 
 ---
